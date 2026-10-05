@@ -7,9 +7,6 @@ Prerequisites: Linux, Python3, PIP3, Tkinter, Pynput, USBGuard, Gnome-Screensave
 For the partial fulfilment of the Course Linux Shell Programming (CSET-213)
 
 
-Made with ❤️ by Shourya Kakkar
-
-
 ![Screenshot from 2024-11-29 03-37-20](https://github.com/user-attachments/assets/436d201d-3958-46cf-aeb0-7b2967a32cef)
 
 ![Screenshot from 2024-11-29 03-34-44](https://github.com/user-attachments/assets/460917d3-e512-438c-9f2e-1a23b1bc11c8)
